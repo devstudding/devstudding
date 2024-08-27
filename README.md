@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- Atualmente estou trabalhando em **Petshop Personal Website**
+- Atualmente estou trabalhando em um **Website de um PetSHop**
 
 - Atualmente estou aprendendo **JavaScript, Kotlin, PHP, MYSQL**
 
@@ -65,14 +65,12 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devstudding&show_icons=true&locale=en&layout=compact" alt="devstudding" />
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=devstudding&show_icons=true&locale=en&layout=compact" alt="devstudding" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devstudding&show_icons=true&locale=en" alt="devstudding" />
+<p align="center">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=devstudding&" alt="devstudding" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=devstudding&show_icons=true&locale=en" alt="devstudding" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devstudding&" alt="devstudding" />
-</p>
