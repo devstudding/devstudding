@@ -23,7 +23,7 @@
 
 - Como chegar a mim: **cdevsmatheus@gmail.com**
 
-<h3 align="left">Conectar-se com mim:</h3>
+<h3 align="left">Fale comigo:)</h3>
 <p align="left">
   <a href="https://dev.to/devstudding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/Social/dev.png" alt="devstudding" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/devstudding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/Social/linked-in-alt.png" alt="devstudding" height="30" width="40" /></a>
